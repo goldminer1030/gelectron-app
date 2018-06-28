@@ -57,5 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+gelectron-app-built-win32-x64
+installers
 gelectron-app-win32-x64
 release-builds
